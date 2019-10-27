@@ -1,6 +1,6 @@
 {
   "name": "@mwheelersmith/inputarea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Input Area is a parody module to convert an input with a type of textarea into an actual textarea.",
   "main": "index.js",
   "keywords": ["input", "textarea"],
