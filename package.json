@@ -1,10 +1,10 @@
 {
   "name": "@mwheelersmith/inputarea",
-  "version": "1.0.0",
-  "description": "Input-Area is a parody module to convert an input with a type of textarea into an actual textarea.",
+  "version": "1.0.1",
+  "description": "Input Area is a parody module to convert an input with a type of textarea into an actual textarea.",
   "main": "index.js",
   "keywords": ["input", "textarea"],
   "author": "Miles Wheeler-Smith",
-  "homepage": "https://github.com/mwheelersmith/input-area", 
+  "homepage": "https://github.com/mwheelersmith/inputarea", 
   "license": "MIT"
 }
