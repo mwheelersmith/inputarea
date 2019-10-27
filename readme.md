@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-npm install inputarea
+npm install @mwheelersmith/inputarea
 ```
 
 ## Usage
